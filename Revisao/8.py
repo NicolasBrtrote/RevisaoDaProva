@@ -26,3 +26,4 @@ else:
 
 
 # saída: O seu IMC é: 26.75 Sobrepeso
+#Errei essa por ter dificuldade em escrever código no papel, tentei seguir a lógica do que eu lembrava.
