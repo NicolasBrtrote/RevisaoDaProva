@@ -1,0 +1,1 @@
+resposta: C/D, marquei a alternativa B pela complexidade ser um pouco menor, nessa lógica o espaço seria menor.
