@@ -12,4 +12,4 @@ else:
 # Para alpha > 0.1, ele retorna uma mensagem de erro.
 # Para alpha <= 0.1 e x < 0, ele retorna o produto de alpha e x.
 # Para alpha <= 0.1 e x >= 0, ele retorna o valor de x.
-# Não sabia muito bem o que fazer então tentei fazer de um jeito meio sem sentido.
+# Não sabia muito bem o que fazer então tentei fazer de um jeito meio sem sentido e errei.
